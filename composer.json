@@ -1,5 +1,5 @@
 {
-    "name": "root/john-framework",
+    "name": "john/my-framework2",
     "description": "a eszy framework",
     "require": {
         "twig/twig": "1.12.*",
