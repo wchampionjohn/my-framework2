@@ -1,0 +1,14 @@
+{
+    "name": "root/john-framework",
+    "description": "a eszy framework",
+    "require": {
+        "twig/twig": "1.12.*",
+        "corneltek/roller": "~1.8"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "John" : "src/" },
+	"classmap" : [ "tests/Controllers/" ]
+    }
+}
